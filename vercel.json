@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "functions": {
+    "api/playlist.m3u.js": {
+      "maxDuration": 30
+    }
+  }
+}
